@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/110228/1e19e1c37d3e40b2b11f23a45f96b15c
+url: http://rpubs.com/nfbuechler/110228
+when: 1442680948.37597
